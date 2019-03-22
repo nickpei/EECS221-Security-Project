@@ -1,2 +1,2 @@
 # EECS221-Security-Project
-Walking Style Authentication
+Walking Style Authentication (WSA)
